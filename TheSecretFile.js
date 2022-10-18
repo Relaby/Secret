@@ -1,3 +1,5 @@
+//BOOKMARKLET WILL NOT WORK GO TO THE COPYANDPASTE.JS FILE
+
 function m() {
     var r='',c='ABC'
     for ( var i = 0; i < 3; i++ ) {
